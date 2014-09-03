@@ -1,0 +1,113 @@
+QIP tem seis etapas:
+
+Caracterizar (plan e Diag)
+Definir objetivos 
+Escolher processos
+Executar processos
+Avaliar dados
+Empacotar experiência
+
+_______________________________________________________________________________________________
+
+1)Caracterizar é parecida com a fase de diagnóstico (quais problemas devem ser atacados?)
+2)Definir objetivos procura garantir alinhamento com os objetivos de melhoria com objetivos de negócio.
+Em objetivos se define as questões e métricas (por isso é do criador do GQM)
+
+3)Em escolher processo -> falta de visibilidade ds atividades tem que tratar com GP (Gerência de processos)
+Grande densidade de defeitos no código -> Processo de Verificação e Validação
+
+EM SUMA TEM QUE OLHAR PARA ORGANIZAÇÃO E VERIFICAR O PROCESSO VIÁVEL PARA A MESMA.
+
+4)Executar processo -> executa o processo e verifica se a solução é adequada ou não.
+Se a solução no for adequada, uma nova variável pode ser inserida no processo.
+
+5)Avaliar dados -> identifica quais o problemas foram encontrados na solução para dá novas recomendações de melhoria.
+
+6) Empacotar experiência -> lições aprendidas, liberar recursos e etc.
+
+
+_________________________________________________________________________________________________
+
+Comparativo do QIP com PDCA e IDEAL
+
+Caracterizar (plan e Diag)
+Definir objetivos (Plan e inic/Plan)
+Escolher processos (Plan e Plan)
+Executar processos (Do e Ação)
+Avaliar dados (Check e Ação)
+Empacotar experiência (Ação e Aprendizado)
+
+_________________________________________________________________________________________________
+
+Exercício (ELA FALOU QUE VAI CAIR NA PROVA):
+
+Exercício 1
+
+Objetivo 1: reduzir tempo gasto com manutenções corretivas
+
+Qual a complexidade das manutenções corretivas?
+Métrica: Complexidade manutenção corretiva
+MÉTRICA( >=10 alta; <10 && >=5 = media; <5 baixa)
+
+Qual é o tempo ideal para realizar manutenções corretivas? 
+Métrica: Tempo ideal para manutenção corretiva (derivada da métrica anterior)
+
+Complexidade alta
+MÉTRICA( >=20 horas = ruim; <20 && >=10 = regular; <10 bom)
+Complexidade média
+MÉTRICA( >=15 horas = ruim; <15 && >=7 = regular; <7 bom)
+Complexidade baixa
+MÉTRICA( >=10 horas = ruim; <7 && >=5 = regular; <5 bom)
+
+
+
+Objetivo 3: Difundir o conhecimento dos sistemas pela equipe
+Quantos sistemas precisam difundir o conhecimento? -> MÉTRICA( >=10 sistemas = ruim; <10 && >=5 = regular; <5 bom)
+Qual a acessiblidade das informações?
+Como está a documentação?
+Existem iniciativas de treinamento?
+
+
+
+Exercício 2
+
+Ações objetivo 3: treinamentos, consolidar base de conhecimento da documentação, criar um processo de documentação de sistemas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
