@@ -1,0 +1,59 @@
+SCAMPI determina o nível do processo da organização. É baseado no cmmi.
+
+OBJETIVOS OBRIGATÓRIOS: objetivos e metas
+OBJETIVOS ESPERADOS: práticas específicas e genéricas
+OBJETIVO INFORMATIVO: subpráticas e produtos de trabalho típicos
+ATRIBUTOS DE PROCESSO: procura trabalhar com a capacidade do processo
+PRODUTO, SUBPRÁTICAS estão no perfil INFORMATIVO do SCAMPI.
+
+NOTAS DO SCAMPI (coluna 1)
+NOTAS DO MPS.BR (coluna 2)
+FI - T - totalmente implementado
+LI - L - largamente implementado
+PI - P - parcialmente implementado
+PI - N - não implementado
+
+NA - não avaliado
+F - fora do escopo
+
+---------------------------------------------------
+A avaliação do SCAMMPI vai do nível A ao C, sendo que A é o mais
+rigoroso e o C é menos rigoroso.
+
+
+--------------------------------------------
+SUBPROCESSOS DO PROCESSO DA AVALIAÇÃO: comparativo
+No SCAMPI é chamado de fases.
+2) preparar para avaliação (mps.br)
+2) planejar e preparar para avaliação (scampi)
+3) realizar avaliaçao (mps.br)
+3) conduzir avaliação (scampi)
+4) documentar resultados (mps.br)
+4) relatar resultados (scampi)
+
+OBS: contratar avaliação é o primeiro passo do mps.br
+--------------------------------------------
+
+EXERCICO 1)
+A) DIRETA = LISTA DE VERIFICAÇÃO E PROBALIDADE DE IMPACTO
+INDIRETA = TEMPLATE DE PLANO DE PROJETO
+B)DIRETA - 
+INDIRETA - TEMPLATE DO PLANO 
+C) DIRETA - EVIDÊNCIA DA UTILIZAÇÃO DO GQM (GOAL, QUESTION, METRIC) 
+TABELA COM RELACIONAMENTO DOS OBJETIVOS COM OBJETIVOS DE NEGÓCIO.
+INDIRETA - TEMPLATE DE ALGUMA COISA
+
+
+EXERCICIO 2)
+A)
+GERENCIA DE REQUISITOS - GRE 1: Sim, 2.7.5
+DESENVOLVIMENTO DE REQUISITOS = 2.5 (REVISAR)
+VERIFICAÇÃO - SIM, 3.8, 3.9
+PROJETO E CONSTRUÇÃO DO PRODUTO - 3.6 PARCIAL
+
+B)
+
+GERÊNCIA DE PROJETO: DIRETO (PRÓPRIO CRONOGRAMA, PORÉM NÃO COMPLETO)
+
+GERÊNCIA DE PROJETOS: INDIRETO, 1.2.16
+

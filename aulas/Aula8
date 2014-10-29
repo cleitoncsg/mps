@@ -1,0 +1,18 @@
+NORMA ISO 12207
+Software é um elemento dentro de um sistema.
+
+Categoria - processos (propósito, saídas, atividades)
+Atividades pode possuir tarefas.
+
+Exercício número 3:
+
+Processo: Desenvolver Software
+Subprocessos: Levantar Requisitos
+Próposito: O levantamento dos requisitos consiste em entender os requisitos e solicitações do sistema; obter e definir os requisitos e solicitações do cliente através de sua solicitação direta ou através de outras entradas como revisão da proposta de negócio, objetivos operacionais, ambiente de hardware e outros documentos.
+
+Atividade 1: Elicitar de requisitos
+Atividade 2: Priorizar requisitos
+Atividade 3: Validar requisitos
+Atividade 4: Gerenciar mudanças requisitos
+
+Pegar cada atividade, colocar entradas, saídas e tarefas.
